@@ -1,0 +1,75 @@
+"Segundo Morgan Housel, qual fator é mais determinante para o sucesso financeiro do que a inteligência ou a educação formal?",O comportamento (psicologia financeira).
+Qual é a premissa central do livro 'A Psicologia Financeira' sobre a natureza do sucesso com o dinheiro?,O sucesso financeiro é uma habilidade pessoal em que o comportamento é mais importante do que o conhecimento técnico.
+"No contexto da psicologia financeira, por que 'sorte' e 'risco' são considerados irmãos?",Ambos são a expressão de que resultados na vida são guiados por forças além do esforço individual.
+Qual lição o autor Morgan Housel extrai da história de Bill Gates e seu amigo Kent Evans?,"Que a sorte e o risco possuem a mesma magnitude, mas atuam em direções opostas nos resultados."
+Como Joseph Heller definiu o conceito de 'o suficiente' em contraste com a busca incessante por mais riqueza?,Como a percepção de que a ambição não deve crescer mais rápido que a satisfação.
+A capitalização composta é intuitiva para a mente humana? Por quê?,"Não, pois o pensamento humano é linear, enquanto a composição é exponencial, gerando resultados que desafiam a lógica imediata."
+"Qual é o principal segredo atribuído à fortuna de Warren Buffett, além de sua habilidade como investidor?","O tempo (longevidade), pois a maior parte de sua riqueza foi acumulada após os 65 anos."
+Diferencie 'ficar rico' de 'continuar rico' segundo a psicologia financeira.,"Ficar rico exige correr riscos e otimismo; continuar rico exige humildade, frugalidade e medo (paranoia) de perder o conquistado."
+O que são 'eventos de cauda' (tail events) nos investimentos?,São eventos raros e extremos que são responsáveis pela maior parte dos resultados financeiros a longo prazo.
+"Defina o maior dividendo que o dinheiro pode pagar, de acordo com Housel.",O controle sobre o próprio tempo (liberdade).
+Explique o 'Paradoxo do Dono do Carro'.,"As pessoas compram bens de luxo para serem admiradas, mas os outros ignoram o dono e apenas admiram o objeto para projetar seu próprio desejo."
+Qual é a distinção fundamental entre 'Riqueza' e 'Fortuna'?,Riqueza é o rendimento visível (gastos); Fortuna é o que não se vê (ativos financeiros não convertidos em consumo).
+Como Housel define 'Poupança' em termos psicológicos?,A poupança é a folga (gap) entre o ego e os rendimentos de um indivíduo.
+Por que é preferível ser 'razoável' em vez de estritamente 'racional' nas decisões financeiras?,"Porque seres humanos têm emoções e precisam de estratégias que os permitam dormir tranquilos, mesmo que não sejam matematicamente perfeitas."
+Qual é o perigo de usar a história como guia absoluto para o futuro financeiro?,A falácia de ignorar que coisas que nunca aconteceram antes (surpresas sem precedentes) acontecem o tempo todo.
+O que é a 'Margem de Segurança' (ou margem para imprevistos)?,"É a técnica de planejar para o erro, garantindo a sobrevivência mesmo quando as previsões falham."
+O que descreve a 'Ilusão do Fim da História' na tomada de decisão financeira?,A tendência de acreditar que nossos desejos e personalidades atuais não mudarão no futuro.
+Por que o pessimismo costuma soar mais inteligente e atraente do que o otimismo no mercado financeiro?,"Porque o progresso é lento e passa despercebido, enquanto a destruição é rápida e gera narrativas dramáticas imediatas."
+Defina a função primordial do sistema financeiro global.,"Alocação eficiente de recursos escassos através do tempo, transformando poupança em investimento."
+O que caracteriza a 'Moeda Fiduciária'?,Moeda sem valor intrínseco que deriva utilidade da confiança institucional e do curso forçado pelo Estado.
+Qual é a equação quantitativa da moeda mencionada no texto técnico?,$MV = PY$
+Conceito: Valor do Dinheiro no Tempo (TVM).,Princípio de que um valor hoje vale mais que o mesmo valor no futuro devido à capacidade de gerar juros.
+Fórmula: Valor Futuro ($FV$) em regime de juros compostos.,$FV = PV \times (1 + i)^n$
+Como o risco afeta a 'Taxa de Desconto' aplicada a um fluxo de caixa futuro?,"Quanto maior o risco percebido, maior será a taxa de desconto e menor será o Valor Presente do ativo."
+Diferencie Mercado Primário de Mercado Secundário.,"No primário, novos ativos são criados e emitem capital para o emissor; no secundário, ativos existentes são trocados entre investidores."
+O que postula a Hipótese do Mercado Eficiente (HME) em seu nível 'semiforte'?,Os preços dos ativos refletem instantaneamente toda a informação pública disponível.
+Qual é o objetivo normativo das Finanças Corporativas?,A maximização do valor da firma (riqueza do acionista a longo prazo).
+Fórmula: Valor Presente Líquido ($VPL$ ou NPV).,$VPL = \sum_{t=1}^{n} \frac{CF_t}{(1 + k)^t} - I_0$
+O que indica um $VPL$ positivo em um projeto de investimento?,Que o projeto cria valor acima do custo de oportunidade estipulado.
+"Segundo o Teorema de Modigliani-Miller, sob quais condições a estrutura de capital é irrelevante?","Em mercados perfeitos sem impostos, custos de falência ou assimetrias de informação."
+Diferencie Risco Sistemático de Risco Idiosincrático.,O sistemático afeta todo o mercado e não é eliminável; o idiosincrático é específico de um ativo e pode ser reduzido via diversificação.
+O que representa a 'Fronteira Eficiente' na Teoria do Portfólio?,O conjunto de carteiras que oferecem o maior retorno esperado para cada nível de risco.
+Fórmula: Modelo de Precificação de Ativos de Capital (CAPM).,$E(R_i) = R_f + \beta_i \times [E(R_m) - R_f]$
+O que mede o Coeficiente Beta ($\beta$) de um ativo?,A sensibilidade do retorno do ativo em relação aos movimentos do mercado (risco sistemático).
+Como uma 'Curva de Juros Invertida' é interpretada historicamente?,Como um preditor confiável de recessões econômicas iminentes.
+O que é a 'Aversão à Perda' na Teoria da Perspectiva?,A observação de que a dor de uma perda é psicologicamente mais intensa que o prazer de um ganho de mesma magnitude.
+Defina o viés cognitivo de 'Ancoragem'.,Dependência excessiva em uma informação inicial para tomar decisões subsequentes.
+O que é o 'Multiplicador Bancário'?,O processo de criação de moeda dentro do sistema bancário através do mecanismo de reservas fracionárias.
+Explique a 'Paridade do Poder de Compra' (PPC).,Teoria de que as taxas de câmbio se ajustam para igualar o preço de uma cesta de bens idênticos entre países a longo prazo.
+Quais são os três componentes do 'Trilema da Política Econômica'?,"Câmbio fixo, livre fluxo de capitais e política monetária independente (apenas dois são possíveis simultaneamente)."
+Qual é a inovação central da tecnologia Blockchain nas finanças?,Permitir a transferência de valor sem a necessidade de um intermediário central confiável.
+O que representam as siglas do paradigma ESG?,"Environmental (Ambiental), Social (Social) e Governance (Governança)."
+Qual é a relação entre taxa de juros e preço dos ativos (ações/imóveis)?,"Juros mais altos aumentam a taxa de desconto, o que reduz o valor presente (preço) dos ativos."
+O que é o Modelo de Crescimento de Gordon?,Uma fórmula para calcular o valor de uma perpetuidade com crescimento constante: $PV = \frac{PMT_1}{i - g}$.
+Como o Canal do Câmbio transmite a Política Monetária?,"Juros elevados atraem capital estrangeiro, valorizando a moeda nacional e ajudando a conter a inflação via importações baratas."
+Defina 'Ativos Encalhados' (Stranded Assets) no contexto ESG.,Ativos que sofrem desvalorizações prematuras ou se tornam passivos devido à transição para uma economia de baixo carbono.
+Por que a diversificação é chamada de 'o único almoço grátis' em finanças?,Porque permite reduzir o risco (idiosincrático) sem necessariamente reduzir o retorno esperado da carteira.
+O que é 'Crowding Out' na macroeconomia financeira?,Quando o gasto público excessivo aumenta o custo do capital e 'expulsa' o investimento privado.
+Qual é a diferença entre juros simples e juros compostos?,"Nos simples, o juro incide apenas sobre o principal; nos compostos, o juro incide sobre o principal e sobre os juros acumulados."
+"No contexto bancário, o que é o 'Risco de Liquidez'?",O risco de uma instituição não ter recursos em espécie para atender a saques massivos de depositantes.
+O que postula a Teoria do Trade-off na estrutura de capital?,Que existe um equilíbrio ótimo entre o benefício fiscal da dívida e os custos de dificuldades financeiras.
+"Segundo a Teoria do Pecking Order, qual é a ordem de preferência de financiamento das empresas?","Autofinanciamento, seguido por emissão de dívida e, por último, emissão de ações."
+O que caracteriza o nível 'Forte' de eficiência de mercado?,"Os preços refletem absolutamente toda a informação, incluindo informações públicas e privilegiadas (insiders)."
+O que é um 'Smart Contract'?,Um contrato autoexecutável baseado em código que reduz custos jurídicos e riscos de contraparte em redes descentralizadas.
+Qual é a medida padrão de risco total em finanças?,O desvio padrão ($\sigma$) dos retornos esperados.
+"No CAPM, o que significa um Beta ($\beta$) maior que 1?","Indica que o ativo é agressivo, ou seja, mais volátil que a média do mercado."
+O que é o 'Índice de Sharpe'?,Uma métrica que avalia o retorno excedente de um investimento por unidade de risco total assumido.
+Defina o conceito de 'Alfa' ($\alpha$) na gestão de fundos.,O retorno obtido por um gestor acima do esperado para o nível de risco assumido.
+Como a 'Microestrutura do Mercado' define o spread?,Como o diferencial entre a melhor ordem de compra (bid) e a melhor ordem de venda (ask).
+Qual é a principal lição da 'Era do Gelo' aplicada aos investimentos por Housel?,"Pequenas mudanças nas condições iniciais, mantidas por muito tempo, levam a resultados extraordinários (composição)."
+Por que o autor Housel sugere que devemos 'economizar apenas por economizar'?,Para garantir opcionalidade e flexibilidade contra um futuro que é inerentemente imprevisível.
+Como o 'Viés de Otimismo' pode ser perigoso na relação com o risco?,Ao fazer o indivíduo aceitar probabilidades favoráveis em situações onde o lado negativo (ruína) é inaceitável.
+O que é o 'Custo Irrecuperável' (Sunk Cost) e como ele afeta o investidor?,"É o esforço ou dinheiro passado que não pode ser recuperado, mas que erroneamente ancora decisões futuras."
+"Na psicologia financeira, por que 'nada é de graça' nos investimentos?","Porque retornos elevados exigem o pagamento de uma 'taxa' invisível: a volatilidade, a incerteza e o medo."
+Por que investidores de longo prazo devem ignorar as dicas de quem joga 'jogos diferentes'?,Porque o preço que faz sentido para um especulador de curto prazo pode ser um desastre para quem planeja manter o ativo por décadas.
+Qual é a definição de 'Otimismo Sensato' segundo Housel?,"A crença de que as chances estão a seu favor a longo prazo, apesar dos contratempos inevitáveis no caminho."
+Como a 'versão assimétrica à perda' protegeu os humanos evolutivamente?,"Priorizando ameaças sobre oportunidades, o que aumentava as chances de sobrevivência e reprodução."
+Por que o progresso tecnológico é frequentemente subestimado em seu início?,"Porque o progresso é gradual e cumulativo, enquanto as falhas iniciais são rápidas e visíveis."
+O que é 'Reatância Psicológica' aplicada ao trabalho e dinheiro?,A sensação de impotência e infelicidade ao fazer algo (mesmo amado) sob um cronograma que não controlamos.
+Qual é a falha do 'Investidor Racional' comparado ao 'Investidor Razoável'?,O racional segue a matemática fria e muitas vezes desiste no caos; o razoável aceita imperfeições para conseguir persistir.
+O que é 'Poder de Permanência' nos investimentos?,A capacidade financeira e emocional de não ser forçado a vender ativos durante uma baixa do mercado.
+Como a humildade auxilia no acúmulo de fortuna?,"Ao reduzir o desejo de ostentação, diminuindo a distância entre o que se ganha e o que se gasta."
+"No contexto de TVM, o que é uma 'Anuidade Antecipada'?",Uma série de pagamentos onde cada parcela ocorre no início de cada período.
+O que caracteriza a 'Flutuação Suja' em regimes cambiais?,Um regime de câmbio flutuante onde o Banco Central intervém ocasionalmente para conter volatilidade extrema.
+Por que a sobrevivência é a base de qualquer estratégia financeira de longo prazo?,"Porque sem sobrevivência, a capitalização composta é interrompida e os benefícios do tempo são perdidos."
